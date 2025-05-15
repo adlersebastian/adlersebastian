@@ -1,9 +1,9 @@
 ![image](https://user-images.githubusercontent.com/116561862/233800619-220b7d10-ab39-4aaa-bf19-ccbd71d14ec2.png)
-# 👋 Hello world! 
+# 👋 Hello, world! 
 
-🇧🇷 Estudo programação e algumas tecnologias, no momento **Front-end**. Aqui postarei meus projetos.
+🇧🇷 Estudante de Ciência da Computação, apaixonado por **Front-end** e **UX**. Aqui postarei meus projetos.
 
-🇬🇧 󠁧I study programming and some technologies, at the moment **Front-end**. I am going to post my projects here.
+🇬🇧 󠁧Computer Science student, **Front-end** and **UX** passionate. Posting my projects here.
 
 ## 🔭 Studying
 
